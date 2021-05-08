@@ -1,6 +1,6 @@
 # Movie App (react-basic)
 
-### React JS Fundamentals Course( 2019 Update! )
+### React JS Fundamentals Course
 
 **#1 Check & Create My First React App**
 
